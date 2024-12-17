@@ -1,0 +1,3 @@
+/home/doodlejumper/MySQL_Backend_Project/build/CMakeFiles/MySQLBackendProject.dir
+/home/doodlejumper/MySQL_Backend_Project/build/CMakeFiles/edit_cache.dir
+/home/doodlejumper/MySQL_Backend_Project/build/CMakeFiles/rebuild_cache.dir

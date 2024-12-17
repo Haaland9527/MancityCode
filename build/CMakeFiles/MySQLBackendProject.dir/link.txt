@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MySQLBackendProject.dir/src/main.cpp.o -o MySQLBackendProject  /usr/lib/x86_64-linux-gnu/libmysqlcppconn.so /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so 
